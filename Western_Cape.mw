@@ -1,16 +1,4 @@
-{{Infobox PoSA
-| Code Province    = {{PoSA Codes|Western Cape}}
-| Capital          = [[{{PoSA Pages|Cape Town}}|{{SIL|Cape Town}}]]
-| Largest city     = [[{{PoSA Pages|Cape Town}}|{{SIL|Cape Town}}]]
-| Premier          = [[Lynne Brown]]
-| Area Total       = 129370
-| Area Rank        = 4
-| Population Total = 4839800
-| Population Year  = 2007
-| Population Rank  = 5
-| Density          = 37.4
-| Languages        = [[{{SIL|Afrikaans}}]]&nbsp;(55.3%)<br>[[{{SIL|Xhosa}}]]&nbsp;(23.7%)<br>[[{{SIL|English}}]]&nbsp;(19.3%)
-}}
+{{Infobox PoSA Western Cape}}
 {{PoSA Introduction|Western Cape}}
 
 == {{SIL|Link}} ==
@@ -30,6 +18,7 @@
 
 [[Category:{{SIL|South Africa}}]]
 [[Category:{{SIL|Provinces of South Africa}}]]
+
 
 [[af:Wes-Kaap]]
 [[ar:كيب الغربية]]
