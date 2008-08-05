@@ -1,16 +1,4 @@
-{{Infobox PoSA
-| Code Province    = {{PoSA Codes|Northern Cape}}
-| Capital          = [[{{PoSA Pages|Kimberley}}|{{SIL|Kimberley}}]]
-| Largest city     = [[{{PoSA Pages|Kimberley}}|{{SIL|Kimberley}}]]
-| Premier          = [[Elizabeth Dipuo Peters]] ([[ANC]])
-| Area Total       = 361830
-| Area Rank        = 1
-| Population Total = 1102200
-| Population Year  = 2007
-| Population Rank  = 9
-| Density          = 3
-| Languages        = [[{{SIL|Afrikaans}}]]&nbsp;(70%)<br>[[{{SIL|Tswana}}]]&nbsp;(20%)<br>[[{{SIL|Xhosa}}]]&nbsp;(6.5%)
-}}
+{{Infobox PoSA Northern Cape}}
 {{PoSA Introduction|Northern Cape}}
 
 == {{SIL|Link}} ==
@@ -30,6 +18,7 @@
 
 [[Category:{{SIL|South Africa}}]]
 [[Category:{{SIL|Provinces of South Africa}}]]
+
 
 [[af:Noord-Kaap]]
 [[ar:كيب الشمالية]]
