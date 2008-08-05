@@ -1,16 +1,4 @@
-{{Infobox PoSA
-| Code Province    = {{PoSA Codes|Free State}}
-| Capital          = [[{{PoSA Pages|Bloemfontein}}|{{SIL|Bloemfontein}}]]
-| Largest city     = [[{{PoSA Pages|Bloemfontein}}|{{SIL|Bloemfontein}}]]
-| Premier          = [[Beatrice Marshoff]] ([[ANC]])
-| Area Total       = 129480
-| Area Rank        = 3
-| Population Total = 2965600
-| Population Year  = 2007
-| Population Rank  = 8
-| Density          = 22.9
-| Languages        = [[{{SIL|Sotho}}]]&nbsp;(62%)<br>[[{{SIL|Afrikaans}}]]&nbsp;(14%)<br>[[{{SIL|Xhosa}}]]&nbsp;(9.5%)
-}}
+{{Infobox PoSA Free State}}
 {{PoSA Introduction|Free State}}
 
 == {{SIL|Link}} ==
@@ -30,6 +18,7 @@
 
 [[Category:{{SIL|South Africa}}]]
 [[Category:{{SIL|Provinces of South Africa}}]]
+
 
 [[af:Vrystaat]]
 [[ar:فري ستيت]]
