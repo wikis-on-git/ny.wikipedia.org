@@ -1,8 +1,25 @@
 {{Thebulo dziko
-| dzina    = {{SIL|South Africa}}
-| mbendera = [[Image:Flag of South Africa.svg|125px|Mbendera ya {{SIL|South Africa}}]]<br /><small>Mbendera ya {{SIL|South Africa}}</small>
-| chikopa  = <br /><small>Chikopa ya {{SIL|South Africa}}</small>
-| malo     = [[Image:LocationSouthAfrica.png|{{SIL|South Africa}} mu Afrika]]
+| dzina        = {{SIL|South Africa}}
+| mbendera     = [[Image:Flag of South Africa.svg|125px|Mbendera ya {{SIL|South Africa}}]]<br /><small>Mbendera ya {{SIL|South Africa}}</small>
+<!-- | chikopa      = [[Image:Coat of arms of South Africa.svg|80px|Chikopa ya {{SIL|South Africa}}]] -->
+| chikopa      = Chikopa ya {{SIL|South Africa}}
+| nyimbo       = 
+| malo         = [[Image:LocationSouthAfrica.png|{{SIL|South Africa}} mu Afrika]]
+| chinenero    =
+| mzinda       =
+| government   = [[{{pn|Parliamentary republic}}|{{SIL|Parliamentary republic}}]]
+| chipembedzo  = 
+| km2          = 1 219 090
+| madzi        = ε&nbsp;
+| wamdziko     = 44 819 778 ([[2001]])<br>47 900 000 ([[2008]])
+| density      = 39.3
+| ndalama      = [[{{pn|South African Rand}}|{{SIL|South African Rand}}]]
+| code_ndalama = ZAR
+| nthawi       = +2
+| Tsiku        = 
+| tld          = za
+| landcode     = ZAF
+| tel          = 27 
 }}
 Dziko la '''{{SIL|South Africa}}''' ndilogawidwa muzigawo zazing’ono zisanu ndi zinai :
 
@@ -25,6 +42,7 @@ Dziko la '''{{SIL|South Africa}}''' ndilogawidwa muzigawo zazing’ono zisanu nd
 [[Category:Maiko a pa dziko lapansi]]
 [[Category:Maiko a ku Africa]]
 [[Category:Maiko amene ankalamulidwa ndi dziko la Britain]]
+
 
 [[af:Suid-Afrika]]
 [[als:Südafrika]]
