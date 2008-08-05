@@ -1,16 +1,4 @@
-{{Infobox PoSA
-| Code Province    = {{PoSA Codes|Eastern Cape}}
-| Capital          = [[{{PoSA Pages|Bhisho}}|{{SIL|Bhisho}}]]
-| Largest city     = [[{{PoSA Pages|Port Elizabeth}}|{{SIL|Port Elizabeth}}]]
-| Premier          = [[Nosimo Balindlela]]
-| Area Total       = 169580
-| Area Rank        = 2
-| Population Total = 6906200
-| Population Year  = 2007
-| Population Rank  = 3
-| Density          = 40.7
-| Languages        = [[{{SIL|Xhosa}}]]&nbsp;(83%)<br>[[{{SIL|Afrikaans}}]]&nbsp;(9.6%)<br>[[{{SIL|English}}]]&nbsp;(3.7%)
-}}
+{{Infobox PoSA Eastern Cape}}
 {{PoSA Introduction|Eastern Cape}}
 
 == {{SIL|Link}} ==
@@ -30,6 +18,7 @@
 
 [[Category:{{SIL|South Africa}}]]
 [[Category:{{SIL|Provinces of South Africa}}]]
+
 
 [[af:Oos-Kaap]]
 [[ar:كيب الشرقية]]
