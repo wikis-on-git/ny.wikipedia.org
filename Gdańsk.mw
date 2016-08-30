@@ -3,7 +3,56 @@
 '''Gdańsk''' ndi [[mzinda]] ku dziko la [[Poland]].
 
 Chiwerengero cha anthu: 461.489.
-
+<timeline>
+ImageSize = width:700 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:500000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:left
+  bar:1939 from:0 till:250000
+  bar:1946 from:0 till:117894
+  bar:1950 from:0 till:194633
+  bar:1960 from:0 till:286940
+  bar:1970 from:0 till:365600
+  bar:1980 from:0 till:456707
+  bar:1987 color:cobar2 from:0 till:469053
+  bar:1990 from:0 till:465143
+  bar:1995 from:0 till:463019
+  bar:2000 from:0 till:462995
+  bar:2005 from:0 till:458053
+  bar:2010 from:0 till:460509
+  bar:2012 from:0 till:460427
+  bar:2014 from:0 till:461489
+PlotData=
+  textcolor:black fontsize:S
+  bar:1939 at: 250000 text: 250.000 shift:(-18,5)
+  bar:1946 at: 117894 text: 117.894 shift:(-18,5)
+  bar:1950 at: 194633 text: 194.633 shift:(-18,5)
+  bar:1960 at: 286940 text: 286.940 shift:(-18,5)
+  bar:1970 at: 365600 text: 365.600 shift:(-18,5)
+  bar:1980 at: 456707 text: 456.707 shift:(-20,5)
+  bar:1987 at: 469053 text: 469.053 shift:(-19,5)
+  bar:1990 at: 465143 text: 465.143 shift:(-18,5)
+  bar:1995 at: 463019 text: 463.019 shift:(-16,5)
+  bar:2000 at: 462995 text: 462.995 shift:(-18,5)
+  bar:2005 at: 458053 text: 458.053 shift:(-18,5)
+  bar:2010 at: 460509 text: 460.509 shift:(-18,5)
+  bar:2012 at: 460427 text: 460.427 shift:(-16,5)
+  bar:2014 at: 461489 text: 461.489 shift:(-16,5)
+</timeline>
+== Link ==
+* [http://www.gdansk.pl Gdańsk] 
+{{commons|Gdańsk}}
 [[Category:Poland]]
 
 {{stub}}
