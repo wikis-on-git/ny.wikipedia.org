@@ -1,0 +1,82 @@
+{{Thebulo_dziko |
+| dzina= Switzerland
+| mbendera = [[File:Flag of Switzerland.svg|125px|Mbendera ya Germany]]
+| chikopa = [[File:Coat of Arms of Switzerland.svg|140px|Chikopa ya Germany]]
+| malo = [[File:Switzerland in Europe.svg|250px|Germany ku Europu]]
+| chinenero = 
+| mzinda = ([[Bern]])
+| chipembedzo = 
+| government = [[Republic]]
+| km2 = 41,285 | madzi = 3,7
+| wamdziko =  8,279,700 (2015) | density = 201
+| ndalama = [[Schweizer Franken]] | code_ndalama = CHF
+| nthawi = +1
+| nyimbo = 
+| Tsiku = 
+| tld = ch | landcode = CH | tel = +41
+}}
+'''Switzerland''' (de. - ''Schweiz'') ndi [[dziko]] lomwe limapezeka ku [[Europu]].
+
+Chiwerengero cha anthu: 8,279,700 (2015)<ref>[http://www.bfs.admin.ch/bfs/portal/de/index/themen/01/02/blank/key/bevoelkerungsstand/01.html Statistik Schweiz]</ref>.
+<timeline>
+ImageSize = width:750 height:250
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:8000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:200 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1850 from:0 till:2393
+  bar:1860 from:0 till:2510
+  bar:1870 from:0 till:2655
+  bar:1880 from:0 till:2832
+  bar:1888 from:0 till:2918
+  bar:1900 from:0 till:3315
+  bar:1910 from:0 till:3753
+  bar:1920 from:0 till:3880
+  bar:1930 from:0 till:4066
+  bar:1941 from:0 till:4626
+  bar:1950 from:0 till:4715
+  bar:1960 from:0 till:5429
+  bar:1970 from:0 till:6270
+  bar:1980 from:0 till:6366
+  bar:1990 from:0 till:6874
+  bar:2000 from:0 till:7307
+  bar:2009 color:cobar2 from:0 till:7874
+PlotData=
+  textcolor:black fontsize:S
+  bar:1850 at: 2393 text: 2392,7 shift:(-14,5)
+  bar:1860 at: 2510 text: 2510,5 shift:(-14,5)
+  bar:1870 at: 2655 text: 2655,0 shift:(-14,5)
+  bar:1880 at: 2832 text: 2831,8 shift:(-14,5)
+  bar:1888 at: 2918 text: 2917,8 shift:(-14,5)
+  bar:1900 at: 3315 text: 3315,4 shift:(-14,5)
+  bar:1910 at: 3753 text: 3753,3 shift:(-14,5)
+  bar:1920 at: 3880 text: 3880,3 shift:(-14,5)
+  bar:1930 at: 4066 text: 4066,4 shift:(-14,5)
+  bar:1941 at: 4626 text: 4625,7 shift:(-14,5)
+  bar:1950 at: 4715 text: 4715,0 shift:(-14,5)
+  bar:1960 at: 5429 text: 5429,1 shift:(-14,5)
+  bar:1970 at: 6270 text: 6269,8 shift:(-14,5)
+  bar:1980 at: 6366 text: 6366,0 shift:(-14,5)
+  bar:1990 at: 6874 text: 6873,7 shift:(-14,5)
+  bar:2000 at: 7307 text: 7306,7 shift:(-14,5)
+  bar:2009 at: 7874 text: 7874,1 shift:(-14,5)
+</timeline>
+
+{{commons|Switzerland}}
+==Malifalensi==
+{{reflist}}
+
+{{stub}}
+
+[[Category:Switzerland|*]]
+[[Category:Maiko a ku Europu]]
