@@ -2,7 +2,9 @@
 
 '''Gdańsk''' ndi [[mzinda]] ku dziko la [[Poland]].
 
-Chiwerengero cha anthu: 461.489.
+* Maonekedwe: 12,84 km² 
+* Kuchuluka: 811 ta’ata/km² 
+* Chiwerengero cha anthu: 462.249<ref>[http://demografia.stat.gov.pl/bazademografia/Tables.aspx Demografia 2015]</ref> (2015).
 <timeline>
 ImageSize = width:700 height:380
 PlotArea = left:50 right:20 top:25 bottom:30
@@ -50,9 +52,10 @@ PlotData=
   bar:2012 at: 460427 text: 460.427 shift:(-16,5)
   bar:2014 at: 461489 text: 461.489 shift:(-16,5)
 </timeline>
+
 == Link ==
 * [http://www.gdansk.pl Gdańsk] 
+==Malifalensi==
+{{reflist}}
 {{commons|Gdańsk}}
 [[Category:Poland]]
-
-{{stub}}
