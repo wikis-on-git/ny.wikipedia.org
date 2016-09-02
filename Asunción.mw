@@ -1,7 +1,62 @@
 [[File:Asuncion Montage.jpg|thumb|right|200px|Asunción]]
 
 '''Asunción''' ndi [[boma]] lina la dziko la [[Paraguay]].
+* Maonekedwe: 117 km² 
+* Kuchuluka: 4,411 ta’ata/km² 
+* Munthu: 525,294 (2016)<ref>[http://www.webcitation.org/5kwKnRO5X Paraguay Facts and Figures	]</ref>
+== Demographics ==
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
 
-Chiwerengero cha anthu: 525.294 (2016).
+ImageSize = width:500 height:300
+PlotArea = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:600000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:10000 start:0
+BackgroundColors = canvas:sfondo
 
-{{stub}}
+BarData=
+  bar:1972 text:1972
+  bar:1982 text:1982
+  bar:1992 text:1992
+  bar:2002 text:2002
+  bar:2010 text:2010
+  bar:2012 text:2012
+
+PlotData=
+  color:barra width:20 align:left
+
+  bar:1972 from:0 till: 388958
+  bar:1982 from:0 till: 454881
+  bar:1992 from:0 till: 500938
+  bar:2002 from:0 till: 512112
+  bar:2010 from:0 till: 542023
+  bar:2012 from:0 till: 544309
+
+PlotData=
+
+  bar:1972 at: 388958 fontsize:S text: 388,958 shift:(-8.5)
+  bar:1982 at: 454881 fontsize:S text: 454,881 shift:(-10.5)
+  bar:1992 at: 500938 fontsize:S text: 500,938 shift:(-10.5)
+  bar:2002 at: 512112 fontsize:S text: 512,112 shift:(-10.5)
+  bar:2010 at: 542023 fontsize:S text: 542,023 shift:(-10.5)
+  bar:2012 at: 544309 fontsize:S text: 544,309 shift:(-10.5)
+
+TextData=
+  fontsize:S pos:(20,20)
+  text:
+</timeline>
+|}
+== Link ==
+* [http://www.asuncion.gov.py/ Asunción] 
+==Malifalensi==
+{{reflist}}
+{{Commons|Asunción}}
+[[Category:Paraguay]]
