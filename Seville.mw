@@ -2,6 +2,88 @@
 
 '''Seville''' ndi [[mzinda]] ku dziko la [[Spain]].
 
-Chiwerengero cha anthu: 703.021.
+Chiwerengero cha anthu: 703.021 (2011).
+* Maonekedwe: 140 km²
+* Kuchuluka: 5,002 ta’ata/km² 
+== Demographics ==
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
 
-{{stub}}
+ImageSize  = width:750 height:350
+PlotArea   = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:800000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:b increment:100000 start:0
+ScaleMinor = gridcolor:a increment:10000 start:0
+BackgroundColors = canvas:c
+
+BarData=
+
+  bar:1842 text:1842
+  bar:1857 text:1857
+  bar:1877 text:1877
+  bar:1887 text:1887
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1940 text:1940
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+  bar:2010 text:2010
+
+PlotData=
+  color:d width:20 align:left
+
+  bar:1842 from:0 till: 100498
+  bar:1857 from:0 till: 112529
+  bar:1877 from:0 till: 134318
+  bar:1887 from:0 till: 143840
+  bar:1900 from:0 till: 148315
+  bar:1910 from:0 till: 158287
+  bar:1920 from:0 till: 205723
+  bar:1930 from:0 till: 228729
+  bar:1940 from:0 till: 312123
+  bar:1950 from:0 till: 376627
+  bar:1960 from:0 till: 442300
+  bar:1970 from:0 till: 548072
+  bar:1981 from:0 till: 653833
+  bar:1991 from:0 till: 704857
+  bar:2001 from:0 till: 684633
+  bar:2010 from:0 till: 704198
+
+PlotData=
+
+  bar:1842 at: 100498 fontsize:s text: 100.498 shift:(-10,5)
+  bar:1857 at: 112529 fontsize:s text: 112.529 shift:(-10,5)
+  bar:1877 at: 134318 fontsize:s text: 134.318 shift:(-10,5)
+  bar:1887 at: 143840 fontsize:s text: 143.840 shift:(-10,5)
+  bar:1900 at: 148315 fontsize:s text: 148.315 shift:(-15,5)
+  bar:1910 at: 158287 fontsize:s text: 158.287 shift:(-15,5)
+  bar:1920 at: 205723 fontsize:s text: 205.723 shift:(-15,5)
+  bar:1930 at: 228729 fontsize:s text: 228.729 shift:(-15,5)
+  bar:1940 at: 312123 fontsize:s text: 312.123 shift:(-15,5)
+  bar:1950 at: 376627 fontsize:s text: 376.627 shift:(-15,5)
+  bar:1960 at: 442300 fontsize:s text: 442.300 shift:(-15,5)
+  bar:1970 at: 548072 fontsize:s text: 548.072 shift:(-15,5)
+  bar:1981 at: 653833 fontsize:s text: 653.833 shift:(-15,5)
+  bar:1991 at: 704857 fontsize:s text: 704.857 shift:(-15,5)
+  bar:2001 at: 684633 fontsize:s text: 684.633 shift:(-15,5)
+  bar:2010 at: 704198 fontsize:S text: 704.198 shift:(-15,5)
+
+</timeline>
+<br clear="left">
+== Link ==
+* [http://www.sevilla.org  Seville] 
+{{Commons|Seville}}
+[[Category:Spain]]
