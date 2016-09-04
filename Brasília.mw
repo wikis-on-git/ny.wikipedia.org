@@ -3,7 +3,36 @@
 '''Brasília''' ndi [[boma]] lina la dziko la [[Brazil]].
 
 Chiwerengero cha anthu: 2.556.149 (2011).
+== Demographics ==
+<timeline>
+ImageSize = width:400 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:3000
+ScaleMajor = unit:year increment:500 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:19 align:left
+ bar:1991 from:0 till:1601
+ bar:1996 from:0 till:1806
+ bar:2000 from:0 till:2051
+ bar:2007 from:0 till:2456
+ bar:2010 color:cobar2 from:0 till:2570
 
-{{stub}}
-
+PlotData=
+ textcolor:black fontsize:S
+ bar:1991 at: 1651 text: 1601,1 shift:(-10,5)
+ bar:1996 at: 1856 text: 1806,4 shift:(-10,5)
+ bar:2000 at: 2101 text: 2051,1 shift:(-10,5)
+ bar:2007 at: 2505 text: 2455,9 shift:(-10,5)
+ bar:2010 at: 2620 text: 2570,2 shift:(-10,5)
+</timeline>
+{{Commons|Brasília}}
 [[Category:Brazil]]
