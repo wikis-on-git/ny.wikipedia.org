@@ -65,6 +65,70 @@ PlotData=
   bar:1970 at: 7355 text: 7,4 shift:(0)
   bar:1990 at: 10953 text:11 shift:(0)
   </timeline>
+== Nyengo ==
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto;"
+|+ '''Łobez'''<ref>pl.climate - Łobez [http://pl.climate-data.org/location/458839/]</ref>
+! Mwezi 
+! I
+! II
+! III
+! IV
+! V
+! VI
+! VII
+! VIII
+! IX
+! X
+! XI
+! XII
+! style="border-left: 2px solid #000;" | Chaka
+|-
+! T max [°C]
+| style="background: #FFFFFF;" | 0
+| style="background: #FFFFCC;" | 2
+| style="background: #FFFF99;" | 7
+| style="background: #FFCC66;" | 14
+| style="background: #FFA500;" | 18
+| style="background: #FF8C00;" | 22
+| style="background: #FF8C00;" | 24
+| style="background: #FF8C00;" | 23
+| style="background: #FFA500;" | 19
+| style="background: #FFCC66;" | 13
+| style="background: #FFFF99;" | 7
+| style="background: #FFFFCC;" | 2
+! style="border-left: 2px solid #000;" | 8
+|-
+! T min [°C]
+| style="background: #FFFFFF;" | -6
+| style="background: #FFFFFF;" | -5
+| style="background: #FFFFCC;" | -1
+| style="background: #FFFFCC;" | 3
+| style="background: #FFFF99;" | 8
+| style="background: #FFCC66;" | 11
+| style="background: #FFA500;" | 13
+| style="background: #FFA500;" | 12
+| style="background: #FFCC66;" | 9
+| style="background: #FFFF99;" | 5
+| style="background: #FFFFCC;" | 1
+| style="background: #ffffff;" | -3
+! style="border-left: 2px solid #000;" | 
+|-
+! mpweya [mm]
+| style="background: #87CEEB;" | 28
+| style="background: #87CEEB;" | 24
+| style="background: #87CEEB;" | 27
+| style="background: #87CEEB;" | 35
+| style="background: #6495ED;" | 53
+| style="background: #4169E1;" | 63
+| style="background: #4169E1;" | 76
+| style="background: #4169E1;" | 64
+| style="background: #4169ED;" | 46
+| style="background: #6495EB;" | 37
+| style="background: #6495EB;" | 38
+| style="background: #6495EB;" | 36
+! style="border-left: 2px solid #000;" | 526
+|}
+
 == Link ==
 * [http://www.lobez.pl Łobez] 
 * [http://www.bip.lobez.pl/ BIP Łobez]
