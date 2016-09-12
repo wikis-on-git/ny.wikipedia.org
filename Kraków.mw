@@ -18,7 +18,7 @@ Colors =
   id:cobar2 value:rgb(0.6,0.9,0.6)
 DateFormat = yyyy
 Period = from:0 till:800000
-ScaleMajor = unit:year increment:8000000 start:0 gridcolor:linegrey
+ScaleMajor = unit:year increment:800000 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:100000 start:0 gridcolor:linegrey2
 PlotData =
   color:cobar width:20 align:center
