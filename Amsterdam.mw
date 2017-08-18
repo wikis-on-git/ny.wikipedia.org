@@ -1,51 +1,48 @@
-[[File:Amsterdam (6578763909).jpg|thumb|right|240px|Amsterdam]]
-
+[[File:Amsterdam (6578763909).jpg|right|300px|Amsterdam]]
 '''Amsterdam''' ndi [[boma]] lina la dziko la [[Netherlands]].
-
 * Chiwerengero cha anthu: 838.338<ref>[http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=37230NED&D1=17-18,20&D2=57-60,63-65,67-71,73,75-77,81-82,84-86,88-91,93-97,100-594&D3=l&LA=EN&HDR=T&STB=G1,G2&VW=T Bevolkingsontwikkeling; regio per maand]</ref> (2016).
 * Maonekedwe: 12,84 km² 
 * Kuchuluka: 811 ta’ata/km² 
+
 == Demographics ==
 <timeline>
-ImageSize  = width:738 height:225
-PlotArea   = width:700 height:200 left:33 bottom:18
-AlignBars  = justify
+Colors=
+ id:lightgrey value:gray(0.95)
+ id:darkgrey  value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
 
-Colors =
-  id:canvas value:rgb(0.98,0.98,0.98)
-  id:grid1  value:rgb(0.8,0.8,0.8)
-  id:grid2  value:gray(0.8)
-  id:bars   value:rgb(0.75,0.75,0.75)
-  id:text   value:rgb(0.5,0.5,0.5)
-
-BackgroundColors = canvas:canvas
-
-DateFormat = yyyy
+ImageSize  = width:800 height:auto barincrement:30
+PlotArea   = left:40 bottom:40 top:20 right:20
+DateFormat = x.y
 Period     = from:0 till:900
-TimeAxis   = orientation:vertical
-ScaleMajor = unit:year increment:100 start:0 gridcolor:grid1
+TimeAxis   = orientation:horizontal
+AlignBars  = late
+ScaleMajor = gridcolor:darkgrey  increment:50 start:0 
+ScaleMinor = gridcolor:lightgrey increment:10 start:0 
+BackgroundColors = canvas:sfondo
 
-plotData=
-  color:g width:25 mark:(line,white) align:center fontsize:S color:bars
-  bar:1300 from:start till:1 text:1000
-  bar:1400 from:start till:3 text:3000
-  bar:1500 from:start till:12 text:12000
-  bar:1600 from:start till:60 text:60.000
-  bar:1650 from:start till:140 text:140.000
-  bar:1796 from:start till:180 text:180.000
-  bar:1815 from:start till:140 text:140.000
-  bar:1830 from:start till:202 text:202.400
-  bar:1849 from:start till:224 text:224.000
-  bar:1879 from:start till:317 text:317.000
-  bar:1899 from:start till:510 text:510.900
-  bar:1925 from:start till:714 text:714.200
-  bar:1929 from:start till:750 text:750.000
-  bar:1963 from:start till:870 text:870.000
-  bar:1984 from:start till:680 text:680.000
-  bar:1999 from:start till:727 text:727.000
-  bar:2005 from:start till:742 text:742.000
-  bar:2006 from:start till:745 text:744.736
-</timeline> 
+PlotData=
+  color:skyblue width:22 shift:(-60,-5) fontsize:M anchor:till
+ bar:1300 from:0 till:1 shift:(10,-5) text:1.000
+ bar:1400 from:0 till:3 shift:(10,-5) text:3.000
+ bar:1500 from:0 till:12 shift:(10,-5) text:12.000
+ bar:1600 from:0 till:60 shift:(10,-5) text:60.000
+ bar:1650 from:0 till:140 text:140.000
+ bar:1796 from:0 till:180 text:180.000
+ bar:1815 from:0 till:140 text:140.000
+ bar:1830 from:0 till:202 text:202.400
+ bar:1849 from:0 till:224 text:224.000
+ bar:1879 from:0 till:317 text:317.000
+ bar:1899 from:0 till:510 text:510.900
+ bar:1925 from:0 till:714 text:714.200
+ bar:1929 from:0 till:750 text:750.000
+ bar:1963 from:0 till:870 text:870.000
+ bar:1984 from:0 till:680 text:680.000
+ bar:1999 from:0 till:727 text:727.000
+ bar:2005 from:0 till:742 text:742.000
+ bar:2006 from:0 till:745 text:744.736
+</timeline>
+
 == Link ==
 * [http://www.Amsterdam.nl Amsterdam] 
 {{commons|Amsterdam}}
