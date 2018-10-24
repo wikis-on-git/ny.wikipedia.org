@@ -35,7 +35,7 @@ Polemba nkhani apa:
 <!--        TODAY'S FEATURED PICTURE        -->
 <div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
 <div id="mp-bottom">
-<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo |Chithunzi chowonetsedwa&ensp;}}</h2>
+<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo|Chithunzi chowonetsedwa&ensp;}}</h2>
 <div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{:Tsamba lalikulu/chithunzi {{#expr:({{#time:z}}+1 ) mod {{PAGESINCATEGORY:Chithunzi cha tsikulo}} }}}}</div>
 </div>
 </div>
