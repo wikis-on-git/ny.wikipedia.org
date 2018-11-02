@@ -28,23 +28,40 @@ searchbuttonlabel=Search
 </inputbox>
 </div>
 
-Polemba nkhani apa:
-* '''Lembani masamba abwino.''' Masamba abwino kwambiri a encyclopedia ali ndi zothandiza, zolembedwa bwino.
-* '''Gwiritsani ntchito masambawa kuti muphunzire ndi kuphunzitsa.''' Masambawa angathandize anthu kuphunzira Chichewa. Mutha kuigwiritsanso ntchito [[Meta:How to start a new Wikipedia|pangani Wikipedia]] yatsopano kuthandiza anthu ena.
-* '''Khala wolimba!''' Nkhani yanu siyenela kukhala yangwiro, chifukwa olemba ena adzakonza ndikupanga bwino. Ndipo chofunika kwambiri, musaope kuyamba ndi kupanga nkhani bwino.
+
+<!--        TODAY'S FEATURED CONTENT        -->
+{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Za Wikipedia</h2>
+* [[Wikipedia ya Chewa|'''Wikipedia ya Chichewa''']] ndi buku laulere. Ndi wiki, mtundu wa webusaiti yomwe anthu ambiri amawalemba. Izi   zikutanthawuza kuti aliyense angathe kusintha tsamba lirilonse podalira pa "kusintha tsamba lino". Mungathe  kuchita izi pa tsamba lirilonse losatetezedwa. Mukhoza kuona ngati tsambalo liri kutetezedwa chifukwa lidzati  "Onani chitsime" mmalo mwa "Sintha".
+
+* Pali nkhani '''{{NUMBEROFARTICLES}}''' pa Wikipedia ya Chichewa. Masamba onse ndi omasuka kugwiritsa ntchito. Zonse zafalitsidwa pansi pa ''[[:en:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License|Creative Commons Attribution / Share-Alike License 3.0]]'' ndi ''[[:en:GNU Free Documentation License|GNU Free Documentation License]]''. '''Mungathe kuthandiza pano!''' Mungasinthe masamba awa ndikupanga masamba atsopano. Werengani masamba othandizira ndi masamba ena abwino kuti mudziwe [[:en:Wikipedia:Your first article|kulemba masamba apa]]. Ngati mukufuna thandizo, mukhoza kufunsa mafunso [[wikipedia:Community portal|pachithumo cha Community]].
+
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Mukamalemba nkhani apa</h2>
+*'''Lembani masamba abwino.''' Masamba abwino kwambiri a encyclopedia ali ndi zothandiza, zolembedwa bwino.
+*'''Gwiritsani ntchito masambawa kuti muphunzire ndi kuphunzitsa.''' Masambawa angathandize anthu kuphunzira Chichewa. Mutha kuigwiritsanso ntchito [[Meta:How to start a new Wikipedia|pangani Wikipedia]] yatsopano kuthandiza anthu ena.
+*'''Khala wolimba!''' Nkhani yanu siyenela kukhala yangwiro, chifukwa olemba ena adzakonza ndikupanga bwino. Ndipo chofunika kwambiri, musaope kuyamba ndi kupanga nkhani bwino.
+| style="border:1px solid transparent;" |
+<!--        IN THE NEWS and ON THIS DAY        -->
+| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Mu nkhani</h2>
+<div id="mp-itn" style="padding:0.1em 0.6em;">{{Mu nkhani}}
+</div>
+|}
 <!--        TODAY'S FEATURED PICTURE        -->
 <div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
 <div id="mp-bottom">
-<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo|Chithunzi chowonetsedwa&ensp;}}</h2>
+<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo |Chithunzi chowonetsedwa&ensp;<span style="font-size:85%; font-weight:normal;">(Yang'anirani mochedwa kwa lero.)</span>}}</h2>
 <div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{:Tsamba lalikulu/chithunzi {{#expr:({{#time:z}}+1 ) mod {{PAGESINCATEGORY:Chithunzi cha tsikulo}} }}}}</div>
 </div>
 </div>
 
-
-
-<!--        SECTIONS AT BOTTOM OF PAGE        --><div id="mp-lower" style="padding-top:4px; padding-bottom:2px; overflow:auto; border:1px solid #e2e2e2; overflow:auto; margin-top:4px;">
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<div id="mp-lower" style="padding-top:4px; padding-bottom:2px; overflow:auto; border:1px solid #e2e2e2; overflow:auto; margin-top:4px;">
 <h2 id="mp-lang" style="margin:0.5em; background:#efefef; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;">Wikipedia mu zitundu zina</h2>
 <div style="padding:0.1em 0.6em;">{{Wikipedia mu zitundu zina}}</div>
 </div>
 <!--        INTERWIKI STRAPLINE        -->
 <noinclude>{{Tsamba lalikulu interwikis}}{{noexternallanglinks}}{{#if:{{Wikipedia:Tsamba_lalikulu/Mawa}}||}}</noinclude>__NOTOC____NOEDITSECTION__
+<center><small><small>{{purge page|Purge page cache}}</small></small></center>
