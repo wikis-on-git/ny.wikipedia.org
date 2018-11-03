@@ -85,7 +85,7 @@
  |pattern_b  = _fra18ho
  |pattern_ra = _frank18h
  |pattern_sh = _fra18a
- |pattern_so = _fra18h2
+ |pattern_so = _fra18H2
  |leftarm    = 112855
  |body       = 112855
  |rightarm   = 112855
@@ -98,7 +98,7 @@
  |pattern_b  = _cro18ho
  |pattern_ra = _cro18H
  |pattern_sh = _cro18h
- |pattern_so = _pol18h
+ |pattern_so = _pol18H
  |leftarm    = F40000
  |body       = FFFFFF
  |rightarm   = F40000
