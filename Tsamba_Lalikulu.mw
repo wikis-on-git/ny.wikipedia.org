@@ -21,15 +21,7 @@ searchbuttonlabel=Search
 {| role="presentation" style="width: 100%; margin-top:4px; border-spacing: 0px;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
 | class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
-<h2 style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Za Wikipedia</h2>
-* [[Wikipedia ya Chewa|'''Wikipedia ya Chichewa''']] ndi buku laulere. Ndi wiki, mtundu wa webusaiti yomwe anthu ambiri amawalemba. Izi   zikutanthawuza kuti aliyense angathe kusintha tsamba lirilonse podalira pa "kusintha tsamba lino". Mungathe  kuchita izi pa tsamba lirilonse losatetezedwa. Mukhoza kuona ngati tsambalo liri kutetezedwa chifukwa lidzati  "Onani chitsime" mmalo mwa "Sintha".
-
-* Pali nkhani '''{{NUMBEROFARTICLES}}''' pa Wikipedia ya Chichewa. Masamba onse ndi omasuka kugwiritsa ntchito. Zonse zafalitsidwa pansi pa ''[[:en:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License|Creative Commons Attribution / Share-Alike License 3.0]]'' ndi ''[[:en:GNU Free Documentation License|GNU Free Documentation License]]''. '''Mungathe kuthandiza pano!''' Mungasinthe masamba awa ndikupanga masamba atsopano. Werengani masamba othandizira ndi masamba ena abwino kuti mudziwe [[:en:Wikipedia:Your first article|kulemba masamba apa]]. Ngati mukufuna thandizo, mukhoza kufunsa mafunso [[wikipedia:Community portal|pachithumo cha Community]].
-
-<h2 style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Mukamalemba nkhani apa</h2>
-*'''Lembani masamba abwino.''' Masamba abwino kwambiri a encyclopedia ali ndi zothandiza, zolembedwa bwino.
-*'''Gwiritsani ntchito masambawa kuti muphunzire ndi kuphunzitsa.''' Masambawa angathandize anthu kuphunzira Chichewa. Mutha kuigwiritsanso ntchito [[Meta:How to start a new Wikipedia|pangani Wikipedia]] yatsopano kuthandiza anthu ena.
-*'''Khala wolimba!''' Nkhani yanu siyenela kukhala yangwiro, chifukwa olemba ena adzakonza ndikupanga bwino. Ndipo chofunika kwambiri, musaope kuyamba ndi kupanga nkhani bwino.
+{{Tsamba Lalikulu/Za Wikipedia}}
 | style="border:1px solid transparent;" |
 <!--        IN THE NEWS and ON THIS DAY        -->
 | class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
