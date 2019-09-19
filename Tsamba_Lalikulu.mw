@@ -1,43 +1,39 @@
-__NOTOC____NOEDITSECTION__<!--        BANNER ACROSS TOP OF PAGE         -->
-<div style="margin:1.2em 0 6px; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">
-<span style="font-size: xx-large;">Mwalandilidwa ku [[Wikipedia]],</big>
-
-[[encyclopedia]] yaulere imene alionse anga thandizeni kukula,
-
-Pakali pano tili [[Special:Statistics|{{NUMBEROFARTICLES}}]] nkhani mu [[Chi-chewa]] zinenero zomwe zimalankhulidwa ku [[Malawi]] ndi [[Zambia]].
-
-Mutha kutitsatira pa [https://twitter.com/Wikipedia_ny twitter].
+__NOTOC__
+__NOEDITSECTION__
+<!--        BANNER ACROSS TOP OF PAGE         -->
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; text-align: center;" class="mpbox">
+<span style="font-size: 200%;">Mwalandilidwa ku [[Wikipedia]],</span><br>[[encyclopedia]] yaulere imene alionse anga thandizeni kukula!<br>Pakali pano tili [[Special:Statistics|{{NUMBEROFARTICLES}}]] nkhani mu [[Chi-chewa]] zinenero zomwe zimalankhulidwa ku [[Malawi]] ndi [[Zambia]].<br>Mutha kutitsatira pa [https://twitter.com/Wikipedia_ny twitter].
 </div>
-<div style="margin-top: .5em; font-size: 90%;">
+
+<!--        Inputbox create a page         -->
+<div class="mpbox" style="margin-top: .3em; background-color: #f0f0f0; padding: .25em;">
 <inputbox>
 type=create
 width=45
 break=no
-bgcolor=#f0f0f0
 buttonlabel=Pangani nkhani yatsopano
-searchbuttonlabel=Search
 </inputbox>
 </div>
 
 <!--        TODAY'S FEATURED CONTENT        -->
 {| role="presentation" style="width: 100%; margin-top:4px; border-spacing: 0px;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
-| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
+| class="MainPageBG mpbox" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
 {{Tsamba Lalikulu/Za Wikipedia}}
-| style="border:1px solid transparent;" |
+| style="border: 1px solid transparent;" |
 <!--        IN THE NEWS and ON THIS DAY        -->
-| class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+| class="MainPageBG mpbox" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
 <h2 style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Mu nkhani</h2>
 <div style="padding:0.1em 0.6em;">{{Mu nkhani}}
 
 </div>
 |}
 <!--        TODAY'S FEATURED PICTURE        -->
-<div class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
+<div class="MainPageBG mpbox" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
 <div>
 <h2 style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo |Chithunzi chowonetsedwa&ensp;<span style="font-size:85%; font-weight:normal;">(Yang'anirani mochedwa kwa lero.)</span>}}</h2>
 <div style="margin:0.1em 0.4em 0.6em;">{{:Tsamba lalikulu/chithunzi {{#expr:({{#time:z}}+1 ) mod {{PAGESINCATEGORY:Chithunzi cha tsikulo}} }}}}</div>
 </div>
 </div>
 
-<div style="margin:1.2em 0 6px; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>
+<div class="mpbox" style="margin:1.2em 0 6px; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>
