@@ -1,5 +1,3 @@
-__NOTOC__
-__NOEDITSECTION__
 <!--        BANNER ACROSS TOP OF PAGE         -->
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; text-align: center;" class="mpbox">
 <span style="font-size: 200%;">Mwalandilidwa ku [[Wikipedia]],</span><br>[[encyclopedia]] yaulere imene alionse anga thandizeni kukula!<br>Pakali pano tili [[Special:Statistics|{{NUMBEROFARTICLES}}]] nkhani mu [[Chi-chewa]] zinenero zomwe zimalankhulidwa ku [[Malawi]] ndi [[Zambia]].<br>Mutha kutitsatira pa [https://twitter.com/Wikipedia_ny twitter].
@@ -36,4 +34,4 @@ buttonlabel=Pangani nkhani yatsopano
 </div>
 </div>
 
-<div class="mpbox" style="margin:1.2em 0 6px; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>
+<div class="mpbox" style="margin:1.2em 0 6px; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>__NOTOC____NOEDITSECTION__
