@@ -12,24 +12,23 @@ buttonlabel=Pangani nkhani yatsopano
 </inputbox>
 </div>
 <!--        TODAY'S FEATURED CONTENT        -->
-{| role="presentation" style="width: 100%; margin-top: 4px; border-spacing: 0px;"
+{| role="presentation" style="width: 100%; margin-top: .3em; border-spacing: 0;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
 | class="MainPageBG mpbox" style="width: 55%; border: 1px solid #cef2e0; padding: 0; background: #f5fffa; vertical-align: top;" |
 {{Tsamba Lalikulu/Za Wikipedia}}
-| style="border: 1px solid transparent;" |
+| style="border: .15em solid transparent; padding: 0" |
 <!--        IN THE NEWS and ON THIS DAY        -->
 | class="MainPageBG mpbox" style="width: 45%; border: 1px solid #cedff2; padding: 0; background: #f5faff; vertical-align: top;"|
-<h2 style="margin: 0.5em; background: #cedff2; font-family: inherit; font-size: 120%; font-weight: bold; border: 1px solid #a3b0bf; padding: .2em .4em;">Mu nkhani</h2>
+<h2 style="margin: .5em; background: #cedff2; font-family: inherit; font-size: 120%; font-weight: bold; border: 1px solid #a3b0bf; padding: .2em .4em;">Mu nkhani</h2>
 <div style="padding: .1em .6em;">
 {{Tsamba Lalikulu/Mu nkhani}}
 </div>
 |}
 <!--        TODAY'S FEATURED PICTURE        -->
-<div class="MainPageBG mpbox" style="margin-top: 4px; border: 1px solid #ddcef2; background: #faf5ff; overflow: auto;">
+<div class="MainPageBG mpbox" style="margin-top: .3em; border: 1px solid #ddcef2; background: #faf5ff; overflow: auto;">
 <div>
-<h2 style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo |Chithunzi chowonetsedwa&ensp;<span style="font-size:85%; font-weight:normal;">(Yang'anirani mochedwa kwa lero.)</span>}}</h2>
-<div style="margin:0.1em 0.4em 0.6em;">{{:Tsamba lalikulu/chithunzi {{#expr:({{#time:z}}+1 ) mod {{PAGESINCATEGORY:Chithunzi cha tsikulo}} }}}}</div>
+<h2 style="margin: .5em; background: #ddcef2; font-family: inherit; font-size: 120%; font-weight: bold; border: 1px solid #afa3bf; padding: .2em .4em">{{#ifexist:Tsamba Lalikulu/{{#time:Y-m-d}}|Chithunzi cha tsikulo|Chithunzi chowonetsedwa <span style="font-size: 85%; font-weight: normal;">(Yang'anirani mochedwa kwa lero.)</span>}}</h2>
+<div style="margin: .1em .4em .6em;">{{:Tsamba lalikulu/chithunzi {{#expr:({{#time:z}}+1 ) mod {{PAGESINCATEGORY:Chithunzi cha tsikulo}} }}}}</div>
 </div>
 </div>
-
-<div class="mpbox" style="margin:1.2em 0 6px; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>__NOTOC____NOEDITSECTION__
+<div class="mpbox" style="margin-top: .3em; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>__NOTOC____NOEDITSECTION__
