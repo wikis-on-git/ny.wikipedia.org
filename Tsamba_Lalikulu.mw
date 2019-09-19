@@ -31,4 +31,4 @@ buttonlabel=Pangani nkhani yatsopano
 <div style="margin: .1em .4em .6em;">{{:Tsamba lalikulu/chithunzi {{#expr:({{#time:z}}+1 ) mod {{PAGESINCATEGORY:Chithunzi cha tsikulo}} }}}}</div>
 </div>
 </div>
-<div class="mpbox" style="margin-top: .3em; border:1px solid #ddd; background-color: #f9f9f9; color: #000; text-align: center;">{{Wikipedia mu zitundu zina}}</div>__NOTOC____NOEDITSECTION__
+<div class="mpbox" style="margin-top: .3em; border: 1px solid #ddd; background-color: #f9f9f9;">{{Wikipedia mu zitundu zina}}</div>__NOTOC____NOEDITSECTION__
