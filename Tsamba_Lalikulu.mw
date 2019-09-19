@@ -12,7 +12,7 @@ buttonlabel=Pangani nkhani yatsopano
 </inputbox>
 </div>
 <!--        TODAY'S FEATURED CONTENT        -->
-{| role="presentation" style="width: 100%; margin-top: .3em; border-spacing: 0;" id="mptable"
+{| role="presentation" style="width: 100%; margin-top: .3em; border-spacing: 0;" class="mptable"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
 | class="mpbox" style="width: 55%; border: 1px solid #cef2e0; padding: 0; background: #f5fffa; vertical-align: top;" |
 {{Tsamba Lalikulu/Za Wikipedia}}
