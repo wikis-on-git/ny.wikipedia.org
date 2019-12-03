@@ -1,49 +1,13 @@
-{{Drugbox
-| Verifiedfields = changed
-| Watchedfields = changed
-| verifiedrevid = 445667873
-| image =
-<!-- Vaccine data -->
-| type = vaccine
-| target = [[Neisseria meningitidis]] <!-- the antigen to protect against -->
-| vaccine_type = Conjugate or polysaccharide
-<!-- Clinical data -->
-| tradename =  Menactra, Menomune, MenAfriVac, Other
-| Drugs.com = {{drugs.com|monograph|meningococcal_vaccine}}
-| MedlinePlus = a607020
-| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
-| pregnancy_US = <!-- A / B            / C / D / X -->
-| pregnancy_category = Category C 
-| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
-| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
-| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
-| legal_US = Rx-only 
-| legal_status =  
-| routes_of_administration = Intramuscular (conjugate), Subcutaneous (polysaccharide)
-<!-- Identifiers -->
-| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
-| ChemSpiderID = none
-| CAS_number_Ref = {{cascite|correct|??}}
-| CAS_number =  
-| ATC_prefix = J07
-| ATC_suffix = AH01
-| ATC_supplemental =  {{ATC|J07|AH02}} {{ATC|J07|AH03}} {{ATC|J07|AH04}} {{ATC|J07|AH05}} {{ATC|J07|AH06}} {{ATC|J07|AH07}} {{ATC|J07|AH08}} {{ATC|J07|AH09}}
-| PubChem =  
-| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
-| DrugBank =
-<!-- Chemical data -->
-}}
-<!-- Definition and medical uses -->
-'''Meningococcal vaccine''' refers to any of the [[vaccine]]s used to prevent infection by ''[[Neisseria meningitidis]]''.<ref name=WHO2011>{{cite journal|title=Meningococcal vaccines: WHO position paper|journal=Weekly epidemiological record|date=Nov 2011|volume=47|issue=86|page=521-540|pmid=22128384|url=http://www.who.int/wer/2011/wer8647.pdf}}</ref> Different versions are effective against some or all of the following types of meningococcus: A, C, W135, and Y.<!-- <ref name=WHO2011/> --> The vaccines are between 85 and 100% effective for at least two years.<ref name=WHO2011/> They result in a decrease in [[meningitis]] and [[sepsis]] among populations were they are widely used.<ref>{{cite journal|last1=Patel|first1=M|last2=Lee|first2=CK|title=Polysaccharide vaccines for preventing serogroup A meningococcal meningitis.|journal=The Cochrane Database of Systematic Reviews|date=25 January 2005|issue=1|pages=CD001093|pmid=15674874}}</ref><ref>{{cite journal|last1=Conterno|first1=LO|last2=Silva Filho|first2=CR|last3=Rüggeberg|first3=JU|last4=Heath|first4=PT|title=Conjugate vaccines for preventing meningococcal C meningitis and septicaemia.|journal=The Cochrane Database of Systematic Reviews|date=19 July 2006|issue=3|pages=CD001834|pmid=16855979}}</ref> They are given either by [[intramuscular|injection into a muscle]] or [[subcutaneous injection|just under the skin]].<ref name=WHO2011/>
+'''Katemera wa matenda oumisa khosi''' ndi [[vaccine|katemera]] amene amaperekedwa kwa anthu pofuna kupewa matenda amene amayambitsidwa ndi tizilombo tochedwa ''[[Neisseria meningitidis]]''.<ref name=WHO2011>{{cite journal|title=Meningococcal vaccines: WHO position paper|journal=Weekly epidemiological record|date=Nov 2011|volume=47|issue=86|page=521-540|pmid=22128384|url=http://www.who.int/wer/2011/wer8647.pdf}}</ref> Katemerayu ali mitundu yosiyanasiyana ndipo amathandiza polimbana ndi mitundu yosiyanasiyananso ya matenda oumisa khosiwa omwe alipo m'magulu monga: A, C, W135, ndiponso Y.<!-- <ref name=WHO2011/> --> Katemerayu amathandiza kwambiri moti anthu oyambira pa 85 mpaka 100 pa anthu 100 aliwonse amene alandira katemerayu amakhala otetezeka kotheratu kumatendawa kwa zaka zosachepera ziwiri.<ref name=WHO2011/> Zimenezi zachititsa kuti m'madera amene anthu ambiri amalandira katemerayu, [[meningitis|matenda oumisa khosi]] ndiponso matenda a [[sepsis]] achepe kwambiri mpaka kutsala pang'ono kutheratu.<ref>{{cite journal|last1=Patel|first1=M|last2=Lee|first2=CK|title=Polysaccharide vaccines for preventing serogroup A meningococcal meningitis.|journal=The Cochrane Database of Systematic Reviews|date=25 January 2005|issue=1|pages=CD001093|pmid=15674874}}</ref><ref>{{cite journal|last1=Conterno|first1=LO|last2=Silva Filho|first2=CR|last3=Rüggeberg|first3=JU|last4=Heath|first4=PT|title=Conjugate vaccines for preventing meningococcal C meningitis and septicaemia.|journal=The Cochrane Database of Systematic Reviews|date=19 July 2006|issue=3|pages=CD001834|pmid=16855979}}</ref> Katemerayu amaperekedwa [[intramuscular|pobaya jakisoni m'minofu]] kapena [[subcutaneous injection|pobaya pakhungu]].<ref name=WHO2011/>
 
 <!-- Recommendations -->
-The [[World Health Organization]] recommends that countries with a moderate or high rate of disease or with frequent outbreaks should [[Vaccination schedule|routinely vaccinate]].<ref name=WHO2011/><ref name=WHO2015A/> In countries with a low risk of disease, they recommend that high risk groups should be immunized.<ref name=WHO2011/> In the [[African meningitis belt]] efforts to immunize all people between the ages of one and thirty with the meningococcal A [[conjugate vaccine]] are ongoing.<ref name=WHO2015A>{{cite journal|title=Meningococcal A conjugate vaccine: updated guidance, February 2015.|journal=Weekly epidemiological record|date=20 Feb 2015|volume=8|issue=90|page=57-68|pmid=25702330|url=http://www.who.int/wer/2015/wer9008.pdf}}</ref> In Canada and the United States the vaccines effective against all four types are recommended routinely for teenagers and others who are at high risk.<ref name=WHO2011/> They are also required for people travelling to [[Mecca]] for [[Hajj]].<ref name=WHO2011/>
+Bungwe looza za umoyo padziko lonse la [[World Health Organization]] limalimbikitsa kuti m'mayiko amene matendawa ndi ofala kwambiri kapena mayiko amene mliri wa matendawa umayamba pafupifupi anthu [[Vaccination schedule|azilandira katemerayu nthawi ndi nthawi]].<ref name=WHO2011/><ref name=WHO2015A/> Koma m'mayiko omwe matendawa si ofala, a zaumoyo amalimbikitsa kuti magulu okhawo a anthu amene ali pa chiwopsezo chotenga matendawa ndi omwe akuyenera kulandira katemera wake.<ref name=WHO2011/> M'dera la ku [[African meningitis belt|Africa lomwe matenda oumisa khosi ndi ofala]] mukuchitika nchito yapadera yomwe cholinga chake n'kupereka [[conjugate vaccine|katemera wa matenda oumisa khosi A]] kwa anthu onse.<ref name=WHO2015A>{{cite journal|title=Meningococcal A conjugate vaccine: updated guidance, February 2015.|journal=Weekly epidemiological record|date=20 Feb 2015|volume=8|issue=90|page=57-68|pmid=25702330|url=http://www.who.int/wer/2015/wer9008.pdf}}</ref> Mtundu wa katemerayu womwe umaperekedwa ku Canada ndi ku United States umathandiza kulimbana ndi mitundu yonse inayi ya matendawa ndipo a zaumoyo amalimbikitsa kuti achinyamata a m'mayikowa ayenera kumalandira katemerayu nthawi ndi nthawi chifukwa ndi omwe ali pa chiopsezo chachikulu.<ref name=WHO2011/> Anthu omwe akuganiza zopita ku [[Mecca]] ku [[Hajj]] amayeneranso kulandira katemerayu.<ref name=WHO2011/>
 
 <!-- Safety and formulations -->
-Safety is generally good.<!-- <ref name=WHO2011/> --> Some develop pain and redness at the site of injection.<ref name=WHO2011/> Use in pregnancy appears to be safe.<ref name=WHO2015A/> [[Anaphylaxis|Severe allergic reactions]] occur in less than one in a million doses.<ref name=WHO2011/> 
+Katemerayu sabweretsa mavuto alionse odetsa nkhawa.<!-- <ref name=WHO2011/> --> Ena amangomva kupweteka kwa kanthawi ndipo pamalo amene awabaya katemerayu ndipo nthawi zina pamafiira.<ref name=WHO2011/> Palibenso chodetsa nkhawa chilichonse ngati mayi wa pakati atalandira katemerayu.<ref name=WHO2015A/> Munthu m'modzi pa anthu opitirira 1 miliyoni aliwonse amene alandira katemerayu ndi omwe [[Anaphylaxis|amatha kukumana ndi mavuto okulirapo obwera chifukwa cha katemerayu]].<ref name=WHO2011/> 
 
 <!-- Society and culture -->
-The first meningococcal vaccine became available in the 1970s.<ref>{{cite book|last1=Barrett|first1=Alan D.T.|title=Vaccinology : an essential guide|date=2015|isbn=9780470656167|page=168|url=https://books.google.ca/books?id=NvKyBwAAQBAJ&pg=PA168}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most important medication needed in a basic [[health system]].<ref>{{cite web|title=WHO Model List of EssentialMedicines|url=http://apps.who.int/iris/bitstream/10665/93142/1/EML_18_eng.pdf?ua=1|work=World Health Organization|accessdate=22 April 2014|date=October 2013}}</ref> The wholesale cost is between 3.23 and 10.77 USD per dose as of 2014.<ref>{{cite web|title=Vaccine, Meningococcal|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=MENV&s_year=2014&year=2014&str=&desc=Vaccine%2C%20Meningococcal&pack=new&frm=VIAL&rte=INJ&class_code2=19%2E3%2E&supplement=&class_name=%2819%2E3%2E%29Vaccines%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=6 December 2015}}</ref> In the United States it costs 100 to 200 USD for a course.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=315}}</ref>
+Katemera woyamba wa matenda oumisa khosi anayamba kupezeka m'zaka za m'ma 1970.<ref>{{cite book|last1=Barrett|first1=Alan D.T.|title=Vaccinology : an essential guide|date=2015|isbn=9780470656167|page=168|url=https://books.google.ca/books?id=NvKyBwAAQBAJ&pg=PA168}}</ref> Ndpo katemerayu ali pagulu la mankhwala ofunika kwambiri otchedwa [[World Health Organization's List of Essential Medicines]], omwe ndi othandiza kwambiri [[health system|pa nkhani za umoyo]].<ref>{{cite web|title=WHO Model List of EssentialMedicines|url=http://apps.who.int/iris/bitstream/10665/93142/1/EML_18_eng.pdf?ua=1|work=World Health Organization|accessdate=22 April 2014|date=October 2013}}</ref> M'chaka cha 2014, mtengo wa chipiku wa katemerayu umayambira pa madola 3.23 mpaka kufika pa 10.77 pa katemera m'modzi.<ref>{{cite web|title=Vaccine, Meningococcal|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=MENV&s_year=2014&year=2014&str=&desc=Vaccine%2C%20Meningococcal&pack=new&frm=VIAL&rte=INJ&class_code2=19%2E3%2E&supplement=&class_name=%2819%2E3%2E%29Vaccines%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=6 December 2015}}</ref> Koma ku United States mtengo wa katemerayu umayambira pa madola 100 mpaka 200 USD.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=315}}</ref>
 
-==References==
+==Malifalensi==
 <references />
