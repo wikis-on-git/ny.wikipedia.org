@@ -45,7 +45,7 @@
 {{ multiple image| perrow= 1  | total_width=200  |  align=right  | header = Oyimira mayiko olankhula Chichewa | header_background = gold | header_align  = center  | background color  = pink | direction = horizontal  |
 | image1 =| caption1=<div style="text-align:center">'''Miss Grand Zimbabwe 2014'''<br/>Lillie lmmaculate Chopamba</div>
 | image2 = Samantha Ntombizodwa Thsuma.png| caption2=<div style="text-align:center">'''Miss Grand Zimbabwe 2013'''<br/>Samantha Ntombizodwa Thsuma</div>
-| image3 = Isabel Chikoti.png| caption3=<div style="text-align:center">'''Miss Grand Zambia 2018'''<br/>Isabel Chikoti</div>
+| image3 =| caption3=<div style="text-align:center">'''Miss Grand Zambia 2018'''<br/>Isabel Chikoti</div>
 }}
 
 '''Miss Grand International''' (MGI) ndi mpikisano wokongola wapadziko lonse wokhazikika ku [[Thailand]]. Imachitika chaka chilichonse kuyambira 2013. ''Nawat Itsaragrisil'' anali mwiniwake wa Miss Grand International pageant.<ref name=tayang/>
