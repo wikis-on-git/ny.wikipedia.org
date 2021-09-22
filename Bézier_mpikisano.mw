@@ -1,0 +1,9 @@
+[[File:Bezier curve.svg|thumb|right|Cubic Bézier curve yokhala ndi mfundo zinayi zowongolera]]
+'''Bézier curve''' (/ˈbɛz.i.eɪ/ BEH-zee-ay) ndi mphindikidwe wa parametric womwe umagwiritsidwa ntchito pazithunzi zamakompyuta ndi magawo ena ofanana. Ma curve, omwe ndi ofanana ndi a Bernstein polynomials, adatchulidwa ndi injiniya waku [[France]] a Pierre Bézier, omwe amawagwiritsa ntchito mzaka za 1960 pakupanga ma curve a matupi a Renault magalimoto. Ntchito zina zimaphatikizapo kapangidwe ka zilembo zamakompyuta ndi makanema ojambula. Ma curve a Bézier amatha kuphatikizidwa kuti apange Bézier spline, kapena kupitilizidwa mpaka kukula kwake kuti apange malo a Bézier. Triangle ya Bézier ndi nkhani yapadera yomaliza.
+
+Pazithunzi za vekitala, ma curve a Bézier amagwiritsidwa ntchito popanga ma curve osalala omwe amatha kupitilizidwa kwamuyaya. "Njira", monga momwe amatchulidwira nthawi zambiri pamapulogalamu ogwiritsa ntchito zithunzi, ndizophatikiza ma curve a Bézier olumikizidwa. Njira sizikhala zomangika pazithunzi zazithunzi ndipo ndizosintha.
+
+Ma curve a Bézier amagwiritsidwanso ntchito muulamuliro wa nthawi, makamaka makanema ojambula, kapangidwe kogwiritsa ntchito mawonekedwe ndi kuwongolera njira yolozera m'maso olumikizidwa ndi maso. Mwachitsanzo, khomo la Bézier lingagwiritsidwe ntchito kufotokozera kuthamanga kwa nthawi ya chinthu monga chithunzi chosuntha kuchokera ku A kupita ku B, m'malo mongosunthira pixels okhazikika pagawo lililonse. Makanema ojambula kapena opanga mawonekedwe akamalankhula za "fizikiki" kapena "kumva" kwa opareshoni, atha kukhala akunena za khonde la Bézier lomwe limagwiritsidwa ntchito kuwongolera kuthamanga kwakanthawi kakusunthika komwe akukambirana.
+
+Izi zimakhudzanso ma robotic pomwe kuyenda kwa mkono wowotcherera, mwachitsanzo, kuyenera kukhala kosalala popewa kuvala kosafunikira.
+[[Category:Curves]]
