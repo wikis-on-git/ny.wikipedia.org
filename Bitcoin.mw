@@ -1,0 +1,152 @@
+
+Bitcoin (₿) ndi ndalama za digito zomwe zitha kusamutsidwa pa intaneti ya anzawo ndi anzawo. [7] Zochita za Bitcoin zimatsimikiziridwa ndi ma netiweki kudzera pa cryptography ndikujambulidwa mu buku lofalitsidwa ndi anthu lotchedwa blockchain. The cryptocurrency anatulukira mu 2008 ndi munthu osadziwika kapena gulu la anthu ntchito dzina Satoshi Nakamoto.[10] Ndalamayi idayamba kugwiritsidwa ntchito mu 2009[11] pomwe kukhazikitsidwa kwake kudatulutsidwa ngati pulogalamu yotseguka. [6]: ch. 1
+
+Bitcoins amapangidwa ngati mphotho ya njira yotchedwa migodi. Atha kusinthidwa ndi ndalama zina, zogulitsa, ndi ntchito zina. Bitcoin yadzudzulidwa chifukwa chogwiritsidwa ntchito pochita zinthu zoletsedwa, kuchuluka kwa magetsi (ndipo motero mpweya wa carbon) womwe umagwiritsidwa ntchito ndi migodi, kusinthasintha kwamtengo wapatali, ndi kuba kwa kusinthanitsa. Osunga ndalama ena ndi akatswiri azachuma amaziwonetsa ngati zongopeka nthawi zosiyanasiyana.
+
+Bitcoin, wakhala akufotokozedwa ngati kuwira chuma kuwira ndi osachepera asanu ndi atatu Nobel Memorial Prize mu Economic Sciences.[12] Atolankhani, akatswiri azachuma, osunga ndalama, ndi banki yayikulu ya Estonia anena kuti bitcoin ndi dongosolo la Ponzi. [13] [14] [15] [16]
+
+Mawu akuti bitcoin adatanthauzidwa mu pepala loyera lofalitsidwa pa 31 October 2008. [4] [17] Ndi kuphatikiza kwa mawu akuti bit ndi coin.[18] Palibe yunifolomu msonkhano wa bitcoin capitalization alipo; Magwero ena amagwiritsa ntchito Bitcoin, capitalized, kunena zaukadaulo ndi maukonde ndi bitcoin, lowercase, kwa unit of account.[19] The Wall Street Journal, [20] The Chronicle of Higher Education, [21] ndi Oxford English Dictionary [18] amalimbikitsa kugwiritsa ntchito bitcoin zilembo zing'onozing'ono nthawi zonse.
+
+Maboma angapo am'deralo ndi amayiko akugwiritsa ntchito Bitcoin mwanjira ina, ndi mayiko awiri, El Salvador ndi Central African Republic, akutenga ngati njira yovomerezeka.
+
+'''''Mayunitsi ndi kugawanika'''''
+
+Chigawo cha akaunti ya bitcoin system ndi bitcoin. [https://www.youtube.com/channel/UCGM4kygVAz0e-9xdnI9Iw6w Ndalama zoyimira bitcoin ndi BTC[a<nowiki>]</nowiki>] ndi XBT.[b][25]: 2  Khalidwe lake la Unicode ndi ₿.[1] bitcoin imodzi imagawidwa ndi malo asanu ndi atatu. [6]: ch. 5  Mayunitsi a tinthu tating'ono ta bitcoin ndi millibitcoin (mBTC), yofanana ndi 1⁄1000 bitcoin, ndi satoshi (sat), lomwe ndi gawo laling'ono kwambiri, ndipo limatchulidwa polemekeza Mlengi wa bitcoin, kuimira 1⁄100000000 (zana. miliyoni) bitcoin [2] 100,000 satoshis ndi mBTC imodzi.[26]
+
+'''''Blockchain'''''
+
+Mapangidwe a data a midadada mu leja.
+
+Chiwerengero chazomwe zimachitika pa bitcoin pamwezi, chiwembu cha semilogarithmic[27]
+
+Chiwerengero cha zotsatira zomwe sizinagwiritsidwe ntchito[28]
+The bitcoin blockchain ndi buku la anthu lomwe limalemba zochitika za bitcoin.[29] Imakhazikitsidwa ngati midadada yotsatizana, chipika chilichonse chokhala ndi ma cryptographic hashi ya block yapitayo mpaka ku block ya genesis[c] mu unyolo. Maukonde olumikizirana omwe amayendetsa mapulogalamu a bitcoin amasunga blockchain.[30]: 215–219  Kusinthana kwa fomu yolipira X imatumiza ma bitcoins a Y kwa wolipidwa Z amawulutsidwa ku netiweki iyi pogwiritsa ntchito mapulogalamu omwe amapezeka mosavuta.
+
+Ma node a netiweki amatha kutsimikizira zomwe zachitika, kuziwonjezera pamakope awo, kenako ndikuwulutsa zowonjezera zaleji ku ma node ena. Kuti tikwaniritse kutsimikizira paokha unyolo wa umwini aliyense maukonde mfundo amasunga buku lake la blockchain.[31] Pazigawo zosiyanasiyana za nthawi yofikira mphindi iliyonse ya 10, gulu latsopano la zochitika zovomerezeka, lotchedwa chipika, limapangidwa, likuwonjezeredwa ku blockchain, ndipo limafalitsidwa mwamsanga ku ma node onse, osafuna kuyang'anira pakati. Izi zimalola mapulogalamu a bitcoin kuti adziwe nthawi yomwe bitcoin inayake idagwiritsidwa ntchito, zomwe zimafunika kupewa kuwononga kawiri. A ledger ochiritsira amalemba kusamutsidwa kwa mabilu enieni kapena zolemba zamalonda zomwe zilipo popanda izo, koma blockchain ndi malo okhawo omwe bitcoins anganene kuti alipo mu mawonekedwe a zotuluka zosagwiritsidwa ntchito zamalonda.[6]: ch. 5
+
+midadada aliyense, maadiresi onse ndi zochitika mkati midadada akhoza kufufuzidwa pogwiritsa ntchito blockchain wofufuza.
+
+'''''Zochita'''''
+Onaninso: Bitcoin network
+Zochita zimatanthauzidwa pogwiritsa ntchito chilankhulo cha Forth-like scripting.[6]: ch. 5  Zochita zimakhala ndi cholowa chimodzi kapena zingapo komanso zotulutsa chimodzi kapena zingapo. Wogwiritsa ntchito akatumiza ma bitcoins, wogwiritsa ntchito amasankha adilesi iliyonse ndi kuchuluka kwa bitcoin yomwe imatumizidwa ku adilesiyo pazotulutsa. Pofuna kupewa kuwononga kawiri, cholowetsa chilichonse chiyenera kutchula zomwe sizinagwiritsidwe ntchito kale mu blockchain.[32] Kugwiritsiridwa ntchito kwa zolowetsa zambiri kumagwirizana ndi kugwiritsa ntchito ndalama zambiri pochita malonda. Popeza kugulitsa kumatha kukhala ndi zotuluka zingapo, ogwiritsa ntchito amatha kutumiza ma bitcoins kwa olandila angapo pakuchita kumodzi. Monga momwe zimakhalira ndi ndalama, kuchuluka kwa zolowa (ndalama zomwe zimagwiritsidwa ntchito polipira) zitha kupitilira zomwe zaperekedwa. Zikatero, kutulutsa kowonjezera kumagwiritsidwa ntchito, kubwezera kusintha kwa wolipira. [32] Ma satoshis aliwonse omwe sanawerengedwe pazotulukapo amakhala ndalama zogulira.[32]
+
+Ngakhale ndalama zolipirira ndi zosankha, ogwira ntchito ku migodi amatha kusankha zomwe akuyenera kukonza ndikuyika patsogolo zomwe zimalipira ndalama zambiri.[32] Ogwira ntchito m'migodi angasankhe zochita kutengera ndalama zomwe amalipira potengera kukula kwawo kosungira, osati kuchuluka kwa ndalama zomwe amalipira ngati chindapusa. Ndalamazi zimayesedwa mu satoshis pa baiti (sat/b). Kukula kwa zochitika kumatengera kuchuluka kwa zomwe zalowetsedwa popanga malondawo, komanso kuchuluka kwa zomwe zatuluka.[6]: ch. 8
+
+Ma midadada mu blockchain poyamba anali ochepa 32 megabytes kukula. Kuchuluka kwa chipika cha megabyte imodzi kunayambitsidwa ndi Satoshi Nakamoto mu 2010. Pambuyo pake malire a kukula kwa chipika cha megabyte imodzi adayambitsa mavuto pakukonza zinthu, monga kuonjezera ndalama zogulira ndi kuchedwa kukonza zochitika. [33] Andreas Antonopoulos wanena kuti Lightning Network ndi njira yothetsera makulitsidwe ndipo amatchula mphezi ngati njira yachiwiri yosanjikiza. [6]: ch. 8
+
+'''umwini'''
+
+Unyolo wosavuta wa umwini monga momwe zikuwonetsedwera mu bitcoin whitepaper.[4] M'menemo, kugulitsa kumatha kukhala ndi zolowetsa zambiri komanso zotulutsa zambiri.[32]
+Mu blockchain, ma bitcoins amalembetsedwa ku ma adilesi a bitcoin. Kupanga adilesi ya bitcoin sikungofunika china koma kusankha kiyi yachinsinsi yachinsinsi ndikuyika adilesi yofananira. Kuwerengera uku kutha kuchitika pakagawanika sekondi. Koma m'malo mwake, kupanga kiyi yachinsinsi ya adilesi yomwe yapatsidwa bitcoin, ndizosatheka.[6]: ch. 4  Ogwiritsa amatha kuuza ena kapena kuyika pagulu adilesi ya bitcoin popanda kusokoneza chinsinsi chake chachinsinsi. Kuphatikiza apo, kuchuluka kwa makiyi achinsinsi ovomerezeka ndi akulu kwambiri kotero kuti ndizokayikitsa kuti wina angawerenge makiyi omwe akugwiritsidwa ntchito kale ndipo ali ndi ndalama. Kuchuluka kwa makiyi achinsinsi ovomerezeka kumapangitsa kuti zikhale zosatheka kuti mphamvu zankhanza zitha kugwiritsidwa ntchito kusokoneza makiyi achinsinsi. Kuti athe kugwiritsa ntchito ma bitcoins awo, eni ake ayenera kudziwa chinsinsi chofananira chachinsinsi ndikusaina malondawo [d] Maukonde amatsimikizira siginecha pogwiritsa ntchito kiyi yapagulu; kiyi yachinsinsi sinaululidwe.[6]: ch. 5
+
+Ngati chinsinsi chachinsinsi chatayika, maukonde a bitcoin sadzazindikira umboni wina uliwonse wa umwini;[30] ndalamazo zimakhala zosagwiritsidwa ntchito, ndipo zimatayika. Mwachitsanzo, mu 2013 wogwiritsa ntchito wina ananena kuti anataya ma bitcoins 7,500, okwana madola 7.5 miliyoni panthawiyo, pamene mwangozi anataya hard drive yomwe munali kiyi
+ yake yachinsinsi.[36] Pafupifupi 20% ya ma bitcoins onse amakhulupirira kuti atayika - akadakhala nawo
+
+'''Migodi'''
+Onaninso: Bitcoin network § Migodi
+
+Ogwira ntchito m'migodi akale a bitcoin ankagwiritsa ntchito ma GPU pamigodi, chifukwa anali oyenererana ndi umboni wa ntchito kuposa ma CPU. [41]
+
+Pambuyo pake ankachita masewera amakumba ma bitcoins ndi tchipisi tapadera za FPGA ndi ASIC. Ma chips omwe ali pachithunzichi atha kutha chifukwa chazovuta.
+
+Masiku ano, makampani amigodi a bitcoin amapereka maofesi ku nyumba ndikugwira ntchito zambiri za hardware zamigodi zomwe zimagwira ntchito kwambiri. [42]
+
+Semi-log chiwembu chazovuta zamigodi [e][28]
+Migodi ndi ntchito yosunga zolembedwa zomwe zimachitika pogwiritsa ntchito mphamvu yakukonza makompyuta. [f] Ogwira ntchito ku migodi amasunga blockchain kukhala yokhazikika, yokwanira, komanso yosasinthika pogawa mobwerezabwereza zomwe zangochitika kumene ku block, zomwe zimawulutsidwa ku netiweki ndikutsimikiziridwa ndi wolandira. mfundo.[29] Chida chilichonse chimakhala ndi SHA-256 cryptographic hash ya chipika chapitacho, [29] potero amachilumikiza ku chipika chapitacho ndikupatsa blockchain dzina lake.[6]: ch. 7 [29]
+
+Kuti avomerezedwe ndi maukonde ena onse, chipika chatsopano chiyenera kukhala ndi umboni wa ntchito (PoW).[29][g] PoW imafuna kuti ogwira ntchito m'migodi apeze nambala yotchedwa nonce (nambala yomwe imagwiritsidwa ntchito kamodzi), kotero kuti pamene chipika zili mwachangu pamodzi ndi nonce, zotsatira zake zimakhala zocheperapo kusiyana ndi chandamale chovuta cha netiweki.[6]: ch. 8  Umboniwu ndi wosavuta kuti node iliyonse pamaneti itsimikizire, koma imatenga nthawi yambiri kuti ipange, ngati kachipangizo kotetezedwa, ochita migodi amayenera kuyesa mitundu ingapo yamitundu yosiyanasiyana (nthawi zambiri kutsatizana kwa miyeso yoyesedwa ndi manambala achilengedwe omwe akukwera: 0 , 1, 2, 3, ...) zotsatira zisanachitike kukhala zochepa kuposa chandamale chovuta. Chifukwa chandamale chovutirapo ndi chaching'ono kwambiri poyerekeza ndi ma hashi wamba a SHA-256, ma block hashi ali ndi ziro zambiri zotsogola[6]: ch. 8  monga tikuwonera pachitsanzo ichi block hash:
+
+000000000000000000590fc0f3eba193a278534220b2b37e9849e1a770ca959
+Mwa kusintha cholinga chovutachi, kuchuluka kwa ntchito yofunikira kuti mupange chipika kungasinthidwe. Ma block 2,016 aliwonse (pafupifupi masiku 14 operekedwa pafupifupi mphindi 10 pa chipika), node amasinthiratu chandamale chovuta kutengera kuchuluka kwaposachedwa kwa block block, ndi cholinga chosunga nthawi pakati pa midadada yatsopano mphindi khumi. Mwanjira iyi dongosololi limangotengera kuchuluka kwa mphamvu zamigodi pamaneti. [6]: ch. 8  Pofika Epulo 2022, zimatengera pafupifupi 122 sextillion (122 biliyoni biliyoni) kuyesa kupanga chipika chocheperako kuposa chomwe chavuta. [45] Mawerengedwe a ukuluwu ndi okwera mtengo kwambiri ndipo amagwiritsa ntchito zida zapadera. [46]
+
+Umboni wa ntchito dongosolo, pamodzi ndi unyolo wa midadada, kumapangitsa kusintha blockchain kukhala kovuta kwambiri, monga wowukira ayenera kusintha midadada onse wotsatira kuti kusinthidwa kwa chipika chimodzi kulandiridwa.[47] Pamene midadada yatsopano imakumbidwa nthawi zonse, zovuta zosintha chipika zimawonjezeka pamene nthawi ikupita ndipo chiwerengero cha midadada yotsatira (yotchedwanso zitsimikiziro za chipikacho) chimawonjezeka.[29]
+
+Mphamvu zamakompyuta nthawi zambiri zimasonkhanitsidwa pamodzi ndi dziwe la Mining kuti muchepetse kusiyana kwa ndalama za migodi. Makina opangira migodi nthawi zambiri amayenera kudikirira kwa nthawi yayitali kuti atsimikizire kuchuluka kwa malonda ndi kulandira malipiro. Mu dziwe, onse ogwira ntchito m'migodi amalipidwa nthawi iliyonse pamene seva yogwira nawo ntchito ithetsa chipika. Kulipira kumeneku kumadalira kuchuluka kwa ntchito yomwe wogwira ntchito m'migodi wathandizira kuti apeze chipikacho.[48]
+
+Perekani
+
+Ma bitcoins onse omwe amafalitsidwa. [28]
+The bwino mgodi kupeza chipika latsopano amaloledwa ndi ena onse maukonde kusonkhanitsa ndalama zonse wotuluka kuchokera wotuluka iwo m'gulu chipika, komanso anakonzeratu mphoto ya bitcoins kumene analenga. [49] Pofika pa 11 Meyi 2020, mphothoyi pakadali pano ndi ma bitcoins 6.25 opangidwa kumene pa block iliyonse.[50] Kuti mutenge mphothoyi, ndalama zapadera zotchedwa coinbase zimaphatikizidwa mu chipikacho, ndipo wachigodi ndiye wolipidwa.[6]: ch. 8  Ma bitcoins onse omwe alipo adapangidwa kudzera munjira iyi. Ndondomeko ya bitcoin imanena kuti mphotho yowonjezeretsa chipika idzachepetsedwa ndi theka midadada iliyonse ya 210,000 (pafupifupi zaka zinayi zilizonse). Pamapeto pake, mphothoyo idzatsika mpaka ziro, ndipo malire a 21 miliyoni bitcoins[h] afikira c. 2140; kusunga kaundula kudzalipidwa ndi chindapusa chokhacho.[51]
+
+'''Decentralization'''
+Bitcoin imagawidwa motere: [7]
+
+Bitcoin ilibe ulamuliro wapakati.[7]
+Maukonde a bitcoin ndi anzawo, [11] opanda ma seva apakati.
+Maukonde amakhalanso alibe chosungira chapakati; buku la bitcoin limagawidwa. [52]
+Bukuli ndi la anthu onse; aliyense atha kuzisunga pa kompyuta.[6]: ch. 1
+Palibe woyang'anira m'modzi;[7] bukuli limasungidwa ndi gulu la ochita migodi omwe ali ndi mwayi wofanana.[6]: ch. 1
+Aliyense akhoza kukhala wamgodi.[6]: ch. 1
+Zowonjezera pa leja zimasungidwa kupyolera mu mpikisano. Mpaka pomwe chipika chatsopano chiwonjezedwe ku ledja, sizikudziwika kuti mgodi uti upange chipikacho.[6]: ch. 1
+Kutulutsidwa kwa bitcoins kumagawidwa. Amaperekedwa ngati mphotho
+
+Mbiri
+Nkhani yayikulu: Mbiri ya bitcoin
+Chilengedwe
+Zithunzi zakunja
+chithunzi chithunzi Tsamba loyamba la The Times 03 Jan 2009 kusonyeza mutu wankhani wogwiritsidwa ntchito mu genesis block
+chithunzi Chithunzi choyipa cha ma pizza awiri ogulidwa ndi Laszlo Hanyecz kwa ₿10,000
+
+
+Ma logo a Bitcoin opangidwa ndi Satoshi Nakamoto mu 2009 (kumanzere) ndi 2010 (kumanja) amawonetsa ma bitcoins ngati zizindikiro zagolide.
+Dzina lamalo bitcoin.org adalembetsedwa pa Ogasiti 18, 2008. [82] Pa 31 Okutobala 2008, ulalo ku pepala lolembedwa ndi Satoshi Nakamoto lotchedwa Bitcoin: A Peer-to-Peer Electronic Cash System[4] idayikidwa pamndandanda wamakalata achinsinsi.[83] Nakamoto adakhazikitsa pulogalamu ya bitcoin ngati code yotsegula ndipo idatulutsa mu Januware 2009. [84] [85] [11] Nakamoto sakudziwikabe. [10]
+
+Pa 3 Januware 2009, maukonde a bitcoin adapangidwa pomwe Nakamoto adakumba chipika choyambira cha unyolo, womwe umadziwika kuti block genesis. [86] [87] M'munsi mwa coinbase wa chipilalachi munali mawu akuti "The Times 03/Jan/2009 Chancellor atsala pang'ono kubwezanso ndalama zachiwiri zamabanki".[11] Cholembachi chikutchula mutu wankhani wofalitsidwa ndi The Times ndipo watanthauziridwa ngati chidindo cha nthawi komanso ndemanga pa kusakhazikika komwe kumadza chifukwa cha mabanki osungitsa magawo.[88]: 18
+
+Wolandila koyamba bitcoin anali Hal Finney, amene analenga woyamba reusable umboni wa ntchito dongosolo (RPoW) mu 2004.[89] Finney adatsitsa pulogalamu ya bitcoin patsiku lake lotulutsidwa, ndipo pa 12 Januware 2009 adalandira ma bitcoins khumi kuchokera ku Nakamoto. [90] [91] Othandizira ena oyambilira a cypherpunk anali opanga omwe amatsogolera bitcoin: Wei Dai, wopanga b-ndalama, ndi Nick Szabo, wopanga golide pang'ono. [86] Mu 2010, kugulitsa koyamba kodziwika kwa bitcoin kunachitika pomwe wopanga mapulogalamu Laszlo Hanyecz adagula pizzas awiri a Papa John kwa ₿10,000 kuchokera kwa Jeremy Sturdivant.
+
+Ofufuza a Blockchain akuyerekeza kuti Nakamoto adakumba pafupifupi ma bitcoins miliyoni [97] asanazimiririke mu 2010 pomwe adapereka kiyi yochenjeza za netiweki ndikuwongolera malo osungira kwa Gavin Andresen. Pambuyo pake Andresen adakhala wopanga mapulogalamu pa Bitcoin Foundation. [98] [99] Kenako Andresen adafuna kugawa ulamuliro. Izi zinasiya mwayi kuti mikangano ikhale pa chitukuko chamtsogolo cha bitcoin, mosiyana ndi ulamuliro wodziwika wa zopereka za Nakamoto. [69] [99]
+
+2011-2012
+Pambuyo pa zochitika zoyambilira za "umboni wa malingaliro", ogwiritsa ntchito oyamba bitcoin anali misika yakuda, monga Silk Road. M'miyezi 30 yakukhalapo, kuyambira mu February 2011, Silk Road idalandira ma bitcoins ngati malipiro, kugulitsa ma bitcoins miliyoni 9.9, okwana $214 miliyoni.[30]: 222
+
+Mu 2011, mtengowo unayamba pa $ 0.30 pa bitcoin, kukula mpaka $ 5.27 pachaka. Mtengo unakwera mpaka $31.50 pa 8 June. Pasanathe mwezi umodzi, mtengowo unatsika mpaka $11.00. Mwezi wotsatira chinatsika kufika pa $7.80, ndipo m’mwezi wina chinafika pa $4.77. [100]
+
+Mu 2012, mitengo ya bitcoin inayamba pa $5.27, ikukula kufika pa $13.30 pachaka.[100] Pofika 9 Januware mtengo udakwera mpaka $ 7.38, koma kenako udagwa ndi 49% mpaka $ 3.80 m'masiku 16 otsatira. Mtengowo unakwera kufika pa $16.41 pa 17 August, koma unatsika ndi 57% kufika pa $7.10 m'masiku atatu otsatira. [101]
+
+Bitcoin Foundation idakhazikitsidwa mu Seputembara 2012 kulimbikitsa chitukuko ndi kutengera kwa bitcoin.[102]
+
+Pa 1 Novembala 2011, kukhazikitsidwa kwa Bitcoin-Qt mtundu 0.5.0 kudatulutsidwa. Zinayambitsa kutsogolo komwe kumagwiritsa ntchito zida za Qt. [103] Pulogalamuyi idagwiritsa ntchito Berkeley DB poyang'anira database. Madivelopa adasinthira ku LevelDB potulutsa 0.8 kuti achepetse nthawi yolumikizana ndi blockchain. inasiyidwa mu mtundu 0.8.2. Kuchokera ku mtundu wa 0.9.0 pulogalamuyo idasinthidwa kukhala Bitcoin Core. Ndalama zolipirira zidachepetsedwanso ndi gawo la khumi ngati njira yolimbikitsira ma microtransactions. [kutchulidwa kofunikira] Ngakhale Bitcoin Core sagwiritsa ntchito OpenSSL pakugwiritsa ntchito maukonde, pulogalamuyo idagwiritsa ntchito OpenSSL pama foni akutali. Mtundu wa 0.9.1 unatulutsidwa kuti achotse chiwopsezo cha netiweki ku Heartbleed bug.
+
+2013-2016
+Mu 2013, mitengo idayamba pa $13.30 kukwera mpaka $770 pofika 1 Januware 2014. [100]
+
+Mu Marichi 2013 blockchain idagawika kwakanthawi kukhala maunyolo awiri odziyimira pawokha ndi malamulo osiyanasiyana chifukwa cha cholakwika mu mtundu 0,8 wa pulogalamu ya bitcoin. Ma blockchains awiriwa adagwira ntchito nthawi imodzi kwa maola asanu ndi limodzi, iliyonse ili ndi mbiri yake ya mbiri yakale kuyambira pomwe idagawanika. Opaleshoni Normal anabwezeretsedwa pamene ambiri maukonde downgraded kuti Baibulo 0,7 wa bitcoin mapulogalamu, kusankha kumbuyo-n'zogwirizana Baibulo blockchain. Zotsatira zake, blockchain iyi idakhala unyolo wautali kwambiri ndipo imatha kulandiridwa ndi onse otenga nawo mbali, mosasamala kanthu za mtundu wawo wa pulogalamu ya bitcoin.[104] Pakugawanika, kusinthana kwa Mt. Gox kunayimitsa pang'ono ma depositi a bitcoin ndipo mtengo unatsika ndi 23% mpaka $37 [104] [105] asanabwerere ku
+
+Mabungwe azachuma
+Bitcoins zitha kugulidwa pakusinthana kwa ndalama zadijito.
+
+Malinga ndi ofufuza, "pali chizindikiro pang'ono ntchito bitcoin" m'mayiko otumiza kunja ngakhale chindapusa mkulu mlandu ndi mabanki ndi Western Union amene kupikisana pa msika izi.[30] The South China Morning Post Komabe, amatchula ntchito bitcoin ndi ogwira Hong Kong kusamutsa ndalama kunyumba.[209]
+
+Mu 2014, National Australia Bank anatseka nkhani za malonda ndi zomangira bitcoin, [210] ndi HSBC anakana kutumikira hedge thumba ndi maulalo bitcoin.[211] Mabanki aku Australia ambiri akuti atseka maakaunti akubanki a mabizinesi okhudza ndalamazo.[212]
+
+Pa 10 December 2017, ndi Chicago Board Mungasankhe Kusinthanitsa anayamba malonda bitcoin tsogolo, [213] kutsatiridwa ndi Chicago Mercantile Kusinthanitsa, amene anayamba malonda bitcoin tsogolo pa 17 December 2017. [214]
+
+Mu Seputembala 2019 Banki Yaikulu ya Venezuela, pempho la PDVSA, idayesa mayeso kuti adziwe ngati bitcoin ndi ether zitha kuchitika m'malo osungira banki chapakati. Pempholi lidalimbikitsidwa ndi cholinga cha kampani yamafuta kuti alipire omwe amawagulitsa.[215]
+
+François R. Velde, Senior Economist ku Chicago Fed, anafotokoza bitcoin monga "kaso njira yothetsera vuto la kulenga digito ndalama".[216] David Andolfatto, Vice Prezidenti ku Federal Reserve Bank of St. Louis, adanena kuti bitcoin ndikuwopseza kukhazikitsidwa, zomwe akunena kuti ndi chinthu chabwino kwa Federal Reserve System ndi mabanki ena apakati, chifukwa zimapangitsa kuti mabungwewa azigwira ntchito bwino. ndondomeko.[43]: 33 [217][218]
+
+Monga ndalama
+Mapasa a Winklevoss agula bitcoin. Mu 2013, The Washington Post inanena kuti iwo anali ndi 1% ya bitcoins zonse zomwe zinalipo panthawiyo. [219]
+
+Njira zina zoyendetsera ndalama ndi ndalama za bitcoin. The woyamba ankalamulira bitcoin thumba unakhazikitsidwa mu Jersey mu July 2014 ndi kuvomerezedwa ndi Jersey Financial Services Commission.[220]
+
+Forbes adatcha bitcoin ndalama zabwino kwambiri za 2013. [221] Mu 2014, Bloomberg adatcha bitcoin imodzi mwamabizinesi ake oyipa kwambiri pachaka. [222] Mu 2015, bitcoin inali pamwamba pa ndalama za Bloomberg. [223]
+
+Malinga ndi bitinfocharts.com, mu 2017, panali 9,272 bitcoin wallets ndi ndalama zoposa $1 miliyoni za bitcoins.[224] Chiwerengero chenicheni cha mamiliyoniya a bitcoin sichidziwika chifukwa munthu m'modzi amatha kukhala ndi chikwama cha bitcoin chopitilira chimodzi.
+
+Capital capital
+Peter Thiel's Founders Fund adayika $3 miliyoni ku BitPay. [225] Mu 2012, chofungatira kwa bitcoin-limayang'ana chiyambi-ups anakhazikitsidwa ndi Adam Draper, ndi thandizo la ndalama kuchokera kwa bambo ake, ankapitabe capitalist Tim Draper, mmodzi wa eni ake lalikulu bitcoin atapambana yobetcherana 30,000 bitcoins, [226] panthawiyo. amatchedwa "chinsinsi wogula".[227] Cholinga cha kampaniyo ndikupereka ndalama mabizinesi 100 a bitcoin mkati mwa zaka 2-3 ndi $10,000 mpaka $20,000 pamtengo wa 6%.[226] Otsatsa amaikanso ndalama mumigodi ya bitcoin. [228] Malinga ndi kafukufuku wa 2015 ndi Paolo Tasca, bitcoin startups anakweza pafupifupi $1 biliyoni mu zaka zitatu (Q1 2012 - Q1 2015).[229]
+
+Mtengo ndi kusakhazikika
+
+Mtengo mu US$, semilogarithmic plot.[28]
+
+Kusakhazikika kwapachaka[27]
+Mtengo wa bitcoins wadutsa m'mizere ya kuyamikiridwa ndi kutsika kwamtengo komwe ena amati thovu ndi mabasi.[230] Mu 2011, mtengo wa bitcoin imodzi udakwera kuchoka pa US$0.30 kufika ku US$32 isanabwerere ku US$2.[231] Mu theka lakumapeto la 2012 komanso pavuto lazachuma la 2012-13 ku Cyprus, mtengo wa bitcoin unayamba kukwera, [232] kufika pamwamba pa US$266 pa 10 April 2013, isanagwe pafupifupi US$50. Pa 29 November 2013, mtengo wa bitcoin imodzi unakwera pamwamba pa US$1,242. [233] Mu 2014, mtengowo unagwa kwambiri, ndipo kuyambira April anakhalabe wokhumudwa pamitengo yoposa theka la 2013. Pofika mu Ogasiti 2014 inali pansi pa US$600. [234]
+
+Malinga ndi Mark T. Williams, kuyambira 30 September 2014, bitcoin ali ndi kusakhazikika kuwirikiza kasanu ndi kawiri kuposa golide, kasanu ndi katatu kuposa S&P 500, ndi 18 kuwirikiza kuposa dola yaku US. [235] Hodl ndi meme yopangidwa ponena za kugwira (kusiyana ndi kugulitsa) panthawi yakusakhazikika. Zachilendo pazachuma, malonda a bitcoin kumapeto kwa Disembala 2020 anali apamwamba kuposa masiku apakati. [236] Hedge funds (pogwiritsa ntchito mphamvu zambiri ndi zotengera)[237] ayesa kugwiritsa ntchito kusakhazikika kuti apindule ndi kutsika kwamitengo. Kumapeto kwa Januware 2021, maudindo oterowo anali opitilira $1 biliyoni, omwe anali apamwamba kwambiri kuposa nthawi zonse. [238] Pofika pa 8 February 2021, mtengo wotseka wa bitcoin unali wofanana ndi US$44,797. [239]
+
+Udindo walamulo, msonkho ndi malamulo
+Zambiri: Kuvomerezeka kwa bitcoin ndi dziko kapena gawo
+Chifukwa cha chikhalidwe chokhazikika cha bitcoin komanso malonda ake pa malonda a pa intaneti omwe ali m'mayiko ambiri, kulamulira bitcoin kwakhala kovuta. Komabe, kugwiritsa ntchito bitcoin kungakhale kolakwa, ndipo kutseka kusinthanitsa ndi chuma cha anzawo ndi anzawo m'dziko lopatsidwa chikhoza kukhala chiletso chenicheni. [240] Malamulo a bitcoin amasiyana kwambiri kumayiko ena ndipo sakudziwikabe kapena kusintha ambiri aiwo. Malamulo ndi zoletsa zomwe zimagwira ntchito kwa bitc
